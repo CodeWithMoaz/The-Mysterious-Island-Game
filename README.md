@@ -2,6 +2,8 @@
 
 A 2D Unity action-platformer. Survive a cursed island, dodge traps, solve puzzles, and fight Seraphites and bosses with sword, bow, and gun.
 
+<img width="622" height="641" alt="The Mysterious Island - Poster" src="https://github.com/user-attachments/assets/c7f12ff6-1dab-4bec-b1f6-e6c3f9841630" />
+
 ## 2D Game Competition
 
 Winning **1st place** among colleagues’ teams in the BUE 2D Gaming Competition 2024.
