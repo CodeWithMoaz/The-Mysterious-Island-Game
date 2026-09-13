@@ -1,7 +1,14 @@
-# The-Mysterious-Island-Game
-A 2D Unity action-platformer. Survive a cursed island, dodge traps, solve puzzles, and fight enemies with sword, bow, and gun.
 # The Mysterious Island
+
 A 2D Unity action-platformer. Survive a cursed island, dodge traps, solve puzzles, and fight Seraphites and bosses with sword, bow, and gun.
+
+## 2D Game Competition
+
+Winning **1st place** among colleagues’ teams in the BUE 2D Gaming Competition 2024.
+
+- Full Game: [Game](https://drive.google.com/file/d/18FXmFIi299zF4mHy2GgR7s4JwjlX4C23/view)
+- Trailer: [Game Trailer](https://drive.google.com/file/d/1d9UFDqUtIj6Y6paQAuOUCdILDfZxgEZW/view)
+- Certificate: [Certificate](https://drive.google.com/file/d/1H84HQGGre6d5brAwJkxj9mA6a2p25030/view)
 
 ## Story
 You wash up on a cursed island after the war. Yuto, a survivor who has been stranded for years, helps you through traps and hidden rooms. Hostile Seraphites and castle dwellers stand between you and escape — and the island has worse waiting at the end.
